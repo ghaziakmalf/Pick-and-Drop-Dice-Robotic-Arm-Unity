@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.preliy.flange": {
+      "version": "https://github.com/Preliy/Flange.git#upm",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "514c1aef4e56ff943a3ea720797eec2f373094a7"
+    },
     "com.unity.collab-proxy": {
       "version": "2.8.2",
       "depth": 0,
@@ -96,7 +103,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.textmeshpro": {
-      "version": "3.0.6",
+      "version": "3.0.9",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -105,7 +112,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.timeline": {
-      "version": "1.7.6",
+      "version": "1.7.7",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -126,7 +133,7 @@
       }
     },
     "com.unity.visualscripting": {
-      "version": "1.9.2",
+      "version": "1.9.7",
       "depth": 0,
       "source": "registry",
       "dependencies": {
